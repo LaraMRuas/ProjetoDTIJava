@@ -9,4 +9,4 @@ Lista de premissas assumidas
  - É uma aplicação que não utiliza banco de dados
  - A lista não contem as funções de edição e deleção
  - asdlkfjalsdfjalskdjfadfuihuhuh
- 
+ Lara
